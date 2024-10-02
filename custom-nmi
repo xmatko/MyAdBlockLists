@@ -1,0 +1,25 @@
+# Local
+#192.168.1.42 adguard
+#192.168.1.42 adguard.nysasphere.net
+@@||adguard.nysasphere.net^$important
+
+##
+## Divers
+##
+||8y20gcz3.r.eu-west-1.awstrack.me^
+||nrazy.clicks.mlsend.com^
+@@||t.notif-colissimo-laposte.info^$important
+
+##
+## X/Twitter shorten links
+##
+@@||*t.co^$important
+
+##
+## Porn allow
+##
+@@||fr.pornhub.com^$client='192.168.1.72'
+@@||pornhub.com^$client='192.168.1.72'
+@@||phncdn.com^$client='192.168.1.72'
+
+

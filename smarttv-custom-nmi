@@ -1,0 +1,35 @@
+##
+## TV Samsung
+##
+#||config.samsungads.com^
+#||gpm.samsungqbe.com^
+#||log-config.samsungacr.com^
+#||samsungacr.com^
+#||samsungads.com^
+#||samsungqbe.com^
+#@@||cdn.samsungcloudsolution.com^important
+#||cdn.samsungcloudsolution.net^
+#||samsungotn.net^
+||osb-v1.samsungqbe.com^$client='192.168.1.199'
+||samsungqbe.com^$client='192.168.1.199'
+||ocfconnect-shard-eu02-euwest1.samsungiotcloud.com^$client='192.168.1.199'
+#||osb-apps.samsungqbe.com^$important
+#||osb-eusvc.samsungqbe.com^$important
+||samsungqbe.com^$important
+#||ocfconnect-shard-eu02-euwest1.samsungiotcloud.com^$important
+||prod.service.minerva.devices.a2z.com^$client='192.168.1.199'
+
+##
+## Netflix on Samsung TV
+##
+||api-global.netflix.com^$client='192.168.1.199'
+||nrdp-ipv6.prod.ftl.netflix.com^$important
+
+##
+## MolotovTV
+##
+||molotov.tv^
+||tracking.molotov.tv^important
+||vod-molotov.akamaized.net^
+
+

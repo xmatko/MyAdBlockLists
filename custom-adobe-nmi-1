@@ -1,0 +1,25 @@
+##
+## Adobe block list
+##
+
+# Hosts redirect
+127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 genuine.adobe.com
+127.0.0.1 prod.adobegenuine.com
+
+
+## Domains (Brutal)
+||*activa*adob*
+||*ereg*adob*
+||*genui*adob*
+||*adob*genui*
+||*licens*adob*
+||*adob*licens*
+||*stat*adob*
+||*adob*stat*
+||*dns*adob*
+||adobestats.io
+||adobe.io
+
+
